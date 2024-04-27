@@ -8,7 +8,7 @@ Recreating the K-Means algorithm provides insights into
 * Strenghts and Drawbacks of the algorithm
 * Customization potential 
 
-For a detailed explanation on the theory used for this computation, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/build-a-principal-component-analysis-pca-algorithm-from-scratch-7515595bf08b)
+For a detailed explanation on the theory used for this computation, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/build-k-means-from-scratch-341285b8d481)
 
 ### Code
 You can find the code for this project [here](https://github.com/ayoakin/K_Means_From_Scratch/blob/main/Build_K_Means_From_Scratch.ipynb).
